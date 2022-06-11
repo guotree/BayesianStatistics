@@ -1,5 +1,5 @@
 # Bayesian Statistics
 
-It's a specialization on Coursera!
+It's a specialization on Coursera! [Bayesian Statistics](https://www.coursera.org/specializations/bayesian-statistics)
 
 I'll share the notes and the materials in the next two months!
