@@ -1,6 +1,6 @@
 # Bayesian Statistics
 
-![](https://github.com/guotree/BayesianStatistics/blob/main/image/BayesianSpecial.png)
+![](https://raw.githubusercontent.com/guotree/BayesianStatistics/main/image/BayesianSpecial.png)
 
 It's a specialization on Coursera! [Bayesian Statistics](https://www.coursera.org/specializations/bayesian-statistics)
 
