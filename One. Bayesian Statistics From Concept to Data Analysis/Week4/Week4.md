@@ -38,4 +38,5 @@ $$
 &=\frac{n}{n+\frac{\sigma_0^2}{s_0^2}}\bar{x}+\frac{\frac{\sigma_0^2}{s_0^2}}{n+\frac{\sigma_0^2}{s_0^2}}m
 \end{align}
 $$
+
 effective sample size: $\frac{\sigma_0^2}{s_0^2}$
